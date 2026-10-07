@@ -1,4 +1,4 @@
-# Terraform for DevOps — Hands-On Repo
+# Terraform for Devops Practice and Hands on Lab
 
 This repository is your one-stop solution for learning Terraform as a DevOps Engineer. It covers basics through advanced features with real AWS infrastructure.
 
